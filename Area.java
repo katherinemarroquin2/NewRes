@@ -31,7 +31,10 @@ public class Area {
                                 System.out.print("Enter side : ");
                                 side = sc.nextDouble();
                                 area = side * side;
-                                break;
+                                break;     
+                                
+                                
+                                
                                 
                         case 'R':
                                 // reading height and width and calculating area
